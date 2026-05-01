@@ -1,8 +1,9 @@
-s1disasm_git
+WH_disasm_git
 ============
 
-The very latest Sonic 1 Disassembly.
+Latest Proj Wonder Hedgehog disasm.
 
+Using as base Sonic Retro's sonic 1 disassembly
 See: http://info.sonicretro.org/Disassemblies
 
 DISCLAIMER:
